@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\programming\\ConsoleApp7\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\10.14.24\\ConsoleApp7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70C10C9B-9389-468F-9AD7-EF4D3A0A689C}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\user\\onedrive\\desktop\\programming\\consoleapp7\\consoleapp7\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70C10C9B-9389-468F-9AD7-EF4D3A0A689C}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\10.14.24\\consoleapp7\\consoleapp7\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70C10C9B-9389-468F-9AD7-EF4D3A0A689C}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70C10C9B-9389-468F-9AD7-EF4D3A0A689C}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\user\\onedrive\\desktop\\programming\\consoleapp7\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70C10C9B-9389-468F-9AD7-EF4D3A0A689C}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\10.14.24\\consoleapp7\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70C10C9B-9389-468F-9AD7-EF4D3A0A689C}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "student.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\programming\\ConsoleApp7\\ConsoleApp7\\student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\10.14.24\\ConsoleApp7\\ConsoleApp7\\student.cs",
               "RelativeDocumentMoniker": "ConsoleApp7\\student.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\programming\\ConsoleApp7\\ConsoleApp7\\student.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\10.14.24\\ConsoleApp7\\ConsoleApp7\\student.cs",
               "RelativeToolTip": "ConsoleApp7\\student.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwBkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T21:38:16.496Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\programming\\ConsoleApp7\\ConsoleApp7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\10.14.24\\ConsoleApp7\\ConsoleApp7\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\programming\\ConsoleApp7\\ConsoleApp7\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\10.14.24\\ConsoleApp7\\ConsoleApp7\\Program.cs",
               "RelativeToolTip": "ConsoleApp7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T08:42:20.372Z",
               "EditorCaption": ""

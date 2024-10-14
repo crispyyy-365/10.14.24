@@ -47,7 +47,6 @@ namespace ConsoleApp7
                 Console.WriteLine("the student is not graduated , because the point is below 65.");
             }
         }
-
         public void GetDiplomDegree(int point)
         {
             if (0 <= point && point <= 65)
